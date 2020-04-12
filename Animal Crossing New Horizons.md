@@ -2,15 +2,26 @@
 [TOC]
 
 ## 0. Release Note
+:::spoiler 4/7 Update
+> - Add 6.2.7 to 6.2.9
+> [name=江仁傑][time=Tue, Apr 7, 2020 1:12 AM]
+
+:::
+
 :::spoiler 4/6 Update 
-> 格式調整, 增加6.1文字說明, backup to github
+> - 格式調整,  backup to github\
+> 因為備份到Github的關係這份文件換行方式有調整\
+> 請@Ted10569 @ycw 參考 https://hackmd.io/s/link-with-github-tw#%E6%8F%9B%E8%A1%8C%E9%A1%AF%E7%A4%BA%E8%A6%8F%E5%89%87
+> - Add 6.1, 2.2
+> - Edit 7
+> 
 > [name=Wan-Chun Liao][color=#00FFEF]
 
 > 新增 DIY、工具、圖鑑、蟲、魚捕捉時間、村民個資表、島評價攻略
 > [name=仁傑]
 
 > 5.7 圖鑑 兩個google forms，其中一個用月份表示
-> 剛跟蠍子拼命結束的ycw 12:52 Am
+> [name=剛跟蠍子拼命結束的ycw 12:52 Am]
 :::
 
 :::spoiler 4/5 Update 
@@ -32,9 +43,16 @@ credit: ATMsosad
  - https://m.gamer.com.tw/forum/Co.php?bsn=07287&snB=21731
  - https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/451005/%E5%8B%95%E7%89%A9%E4%B9%8B%E6%A3%AE-%E5%8B%95%E7%89%A9%E6%A3%AE%E5%8F%8B%E6%9C%83-%E6%94%BB%E7%95%A5-%E5%A4%A7%E9%A0%AD%E8%8F%9C%E6%8A%95%E8%B3%87%E9%A0%90%E6%B8%AC%E8%B3%BA%E5%A4%A7%E9%8C%A2
 ### 2.2 大頭菜計算機
- - https://ms0223900.github.io/acnh-kabu-prediction/ ==推薦這個==
- - [純靠北工程師版](https://kaobei.engineer/animal/kohlrabi) 猶如回到國小時的網站風格
- - [Reddit Turnip Calculator (EN)](https://mikebryant.github.io/ac-nh-turnip-prices/index.html)
+
+ - 中文介面
+     - https://justineliao.github.io/ac-nh-turnip-prices/ ==我自己做der==
+     - https://ms0223900.github.io/acnh-kabu-prediction/ 
+     - [純靠北工程師版](https://kaobei.engineer/animal/kohlrabi) 
+ - 英文介面
+     - https://elxris.github.io/Turnip-Calculator/
+     - [Reddit Turnip Calculator (EN)](https://mikebryant.github.io/ac-nh-turnip-prices/index.html)
+     - [Google Sheet計算機 (EN)](https://docs.google.com/spreadsheets/d/1EqQIjfD-WeDWVBNqk2I_CXjmZtGhTP7LbqZxCT5EAtM/copy)
+
 
 ## 3. 季節性活動
 ### 202004 釣魚大會
@@ -125,8 +143,44 @@ credit: ATMsosad
     - https://bit.ly/2Ucm9P6
 6. 卡娜赫拉(官方逼死同人)
     - https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/454970/%E7%B2%89%E7%B4%85%E5%85%94%E5%85%94-p%E5%8A%A9%E5%85%A5%E4%BE%B5%E5%8B%95%E7%89%A9%E4%B9%8B%E6%A3%AE-%E5%8D%A1%E5%A8%9C%E8%B5%AB%E6%8B%89%E7%84%A1%E4%BA%BA%E5%B3%B6%E9%96%8B%E5%BA%97%E6%95%99%E4%BD%A0%E6%8B%8E%E5%AE%98%E6%96%B9%E6%9C%8D%E9%A3%BE
-## 7. 村民個資表
-- [清單](https://gamepedia.jp/ac-switch/archives/6968)
+7.  最新衣服樣式+素材
+- 7.1 大衣+套裝 
+    - https://boyztimes.com/archives/22594
+    - https://boyztimes.com/archives/21500
+
+- 7.2  外套+上衣
+    - https://boyztimes.com/archives/22234
+    - https://boyztimes.com/archives/22074
+    - https://boyztimes.com/archives/21583
+    - https://boyztimes.com/archives/20753
+- 7.3 帽款
+    - https://boyztimes.com/archives/22326
+    - https://boyztimes.com/archives/22039
+    - https://boyztimes.com/archives/21422
+- 7.4 裙款
+    - https://boyztimes.com/archives/22467
+    - https://boyztimes.com/archives/21943
+    - https://boyztimes.com/archives/20966
+    - https://boyztimes.com/archives/21034
+    - https://boyztimes.com/archives/21222
+- 7.5 和服
+    - https://boyztimes.com/archives/22135
+    - https://boyztimes.com/archives/21876
+    - https://boyztimes.com/archives/22206
+    - https://boyztimes.com/archives/21851 ==櫻花版本==
+8. POKEMON
+    -  https://boyztimes.com/archives/21732
+9. 地磚
+    - https://boyztimes.com/archives/22365
+    - https://boyztimes.com/archives/21700
+
+## 7. 村民
+### 7.1 島民
+- [愛好表](https://gamepedia.jp/ac-switch/archives/6968)
+- [生日表](http://m.0123366.com/news/4229.html)
+### 7.2 趕走村民
+ - https://www.ptt.cc/bbs/NSwitch/M.1586142973.A.197.html
+
 ## 8. 系統/連線
 - [離島時島嶼回溯機制](https://www.plurk.com/p/nrihwv)
 - [島型攻略](https://bbs.nga.cn/read.php?tid=21063342)
@@ -135,9 +189,8 @@ credit: ATMsosad
 
 
 ----
-## Contributer
-如果你協助了編輯這份筆記請把自己加進來
+## Contributor
+如果你協助了編輯這份筆記請把自己加進來\
 @Nanasemaru @ycw @Ted10569 
-
 
 ###### tags: `NS` `動物之森`
